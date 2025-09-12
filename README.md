@@ -1,4 +1,4 @@
-<img src="Brown Wood Minimalist Profile LinkedIn Banner.png" />
+<img src= />
 <h1 align="center">Hi 👋, I'm Sumit Mali</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
