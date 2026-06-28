@@ -18,11 +18,11 @@
 
 - 🎓 Computer Engineering Graduate
 - 💻 Passionate about Full Stack Development
-- 🌱 Currently learning **Advanced MERN Stack, System Design & Cloud**
-- 🤖 Exploring **Artificial Intelligence & Machine Learning**
+- 🌱 Problem Solver & Learning Mindset
+- 🤖 Exploring **New Technologies**
 - 📄 IEEE Research Paper Presenter
 - 💬 Ask me about **Java, JavaScript, React, Node.js, Express.js & MongoDB**
-- ⚡ I enjoy building clean, scalable and user-friendly applications.
+- ⚡ I enjoy building clean, scalable and user-friendly websites.
 
 <br clear="right"/>
 
@@ -31,11 +31,11 @@
 # 🌐 Connect With Me
 
 <p align="center">
-<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="50"/></a>&nbsp;&nbsp;&nbsp;
-<a href="tel:+91XXXXXXXXXX"><img src="https://img.icons8.com/color/48/phone.png" height="50"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://skillicons.dev/icons?i=instagram" height="50"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://YOUR_PORTFOLIO.vercel.app"><img src="https://skillicons.dev/icons?i=vercel" height="50"/></a>
+<a href="mailto:sumitmali2003@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="50"/></a>&nbsp;&nbsp;&nbsp;
+<a href="tel:+919511759204"><img src="https://img.icons8.com/color/48/phone.png" height="50"/></a>&nbsp;&nbsp;&nbsp;
+<a href="**https://www.linkedin.com/in/sumit-mali-419a39252/**"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://sumitmali2003.github.io/Portfolio/"><img src="https://skillicons.dev/icons?i=vercel" height="50"/></a>
+<a href="https://www.instagram.com/sumitt_mali_03/"><img src="https://skillicons.dev/icons?i=instagram" height="50"/></a>&nbsp;&nbsp;&nbsp;
 </p>
 
 ---
@@ -44,12 +44,12 @@
 
 ### Languages
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,js,python,c,cpp"/>
+<img src="https://skillicons.dev/icons?i=java,js,python"/>
 </p>
 
 ### Frontend
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,vite"/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react"/>
 </p>
 
 ### Backend
@@ -59,17 +59,12 @@
 
 ### Database
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql"/>
 </p>
 
 ### Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,firebase"/>
-</p>
-
-### AI / ML
-<p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm"/>
 </p>
 
 ---
@@ -125,13 +120,13 @@
 
 ## 📫 Reach Me
 
-📧 **YOUR_EMAIL@gmail.com**
+📧 **sumitmali2003@gmail.com**
 
-🌐 **https://YOUR_PORTFOLIO.vercel.app**
+💼 **https://www.linkedin.com/in/sumit-mali-419a39252/**
 
-💼 **https://linkedin.com/in/YOUR_LINKEDIN**
+🌐 **https://sumitmali2003.github.io/Portfolio/**
 
-📱 **+91 XXXXXXXXXX**
+📱 **+91 9511759204**
 
 ---
 
@@ -142,12 +137,3 @@
 </div>
 
 ---
-
-## 🔧 Replace
-
-- YOUR_GITHUB_USERNAME
-- YOUR_EMAIL@gmail.com
-- YOUR_LINKEDIN
-- YOUR_INSTAGRAM
-- YOUR_PORTFOLIO
-- +91XXXXXXXXXX
