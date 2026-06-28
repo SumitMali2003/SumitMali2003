@@ -32,7 +32,9 @@
 
 <p align="center">
 <a href="mailto:sumitmali2003@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="50"/></a>&nbsp;&nbsp;&nbsp;
-<a href="tel:+919511759204"><img src="https://img.icons8.com/color/48/phone.png" height="50"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://wa.me/919511759204" target="_blank">
+<img src="https://img.shields.io/badge/-25D366?style=flat-square&logo=whatsapp&logoColor=white" height="18"/>
+</a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/sumit-mali-419a39252/"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://sumitmali2003.github.io/Portfolio/"><img src="https://skillicons.dev/icons?i=vercel" height="50"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/sumitt_mali_03/"><img src="https://skillicons.dev/icons?i=instagram" height="50"/></a>&nbsp;&nbsp;&nbsp;
