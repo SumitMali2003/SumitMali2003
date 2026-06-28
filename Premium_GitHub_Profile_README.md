@@ -84,8 +84,6 @@
 
 # 🏆 GitHub Trophies
 
-## 🏆 GitHub Trophies
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SumitMali2003&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
 </p>
@@ -112,7 +110,7 @@
 > Create `.github/workflows/snake.yml` in this repository and use the latest GitHub Actions snake workflow.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/SumitMali2003/SumitMali2003/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
