@@ -33,7 +33,7 @@
 <p align="center">
 <a href="mailto:sumitmali2003@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="50"/></a>&nbsp;&nbsp;&nbsp;
 <a href="tel:+919511759204"><img src="https://img.icons8.com/color/48/phone.png" height="50"/></a>&nbsp;&nbsp;&nbsp;
-<a href="**https://www.linkedin.com/in/sumit-mali-419a39252/**"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/sumit-mali-419a39252/"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://sumitmali2003.github.io/Portfolio/"><img src="https://skillicons.dev/icons?i=vercel" height="50"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/sumitt_mali_03/"><img src="https://skillicons.dev/icons?i=instagram" height="50"/></a>&nbsp;&nbsp;&nbsp;
 </p>
@@ -120,7 +120,9 @@
 
 ## 📫 Reach Me
 
-<a href="mailto:sumitmali2003@gmail.com">text="Mail to Sumit"</a>&nbsp;&nbsp;&nbsp;
+<a href="sumitmali2003@gmail.com" target="_blank" rel="noopener noreferrer">
+  <button>Mail</button>
+</a>
 
 📧 **sumitmali2003@gmail.com**
 
