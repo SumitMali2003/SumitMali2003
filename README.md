@@ -1,134 +1,221 @@
-<h1 align="center">Hi 👋, I'm Sumit Mali</h1>
-<h3 align="center">Full Stack Developer | MERN Stack | AI/ML Enthusiast | Computer Engineer</h3>
+<div align="center">
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+# Hi 👋, I'm Sumit Mali
 
-## 🚀 About Me
+### 🚀 Full Stack Developer | MERN Stack | AI/ML Enthusiast | Computer Engineer
 
-- 🎓 Computer Engineering Graduate
-- 💻 Passionate Full Stack Developer
-- 🌱 Currently learning **Advanced MERN Stack & System Design**
-- 🤖 Interested in **Artificial Intelligence & Machine Learning**
-- 📄 Presented an **IEEE Research Paper**
-- 💬 Ask me about **Java, JavaScript, React, Node.js, MongoDB**
-- 📫 Email: **your_email@gmail.com**
-- 📍 Maharashtra, India
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Open+Source+Learner;Always+Learning+New+Things"/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+
+</div>
 
 ---
 
-## 🌐 Connect with Me
+# 💫 About Me
+
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+🎓 Computer Engineering Graduate
+
+💻 Passionate Full Stack Developer
+
+🌱 Currently learning
+
+- Advanced React
+- Node.js
+- System Design
+- AWS
+
+🤖 Interested in
+
+- Artificial Intelligence
+- Machine Learning
+- Web Development
+
+📄 IEEE Research Paper Presenter
+
+⚡ Fun Fact:
+
+> I love turning ideas into real-world applications.
+
+---
+
+# 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:your_email@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.linkedin.com/in/your-linkedin-id/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
+<a href="mailto:your_email@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
+</a>
 
-  <a href="https://instagram.com/your_instagram_username" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://portfolio-link.vercel.app/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel" height="45"/>
-  </a>
+<a href="https://www.linkedin.com/in/your-linkedin-id">
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://instagram.com/your_instagram_username">
+<img src="https://skillicons.dev/icons?i=instagram" height="55"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://yourportfolio.vercel.app">
+<img src="https://skillicons.dev/icons?i=vercel" height="55"/>
+</a>
+
 </p>
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,js,python,c,cpp" />
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=javascript"/>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=c"/>
+
+<img src="https://skillicons.dev/icons?i=cpp"/>
+
 </p>
 
 ### Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,vite" />
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=bootstrap"/>
+
+<img src="https://skillicons.dev/icons?i=tailwind"/>
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+<img src="https://skillicons.dev/icons?i=vite"/>
+
 </p>
 
 ### Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+<img src="https://skillicons.dev/icons?i=express"/>
+
 </p>
 
 ### Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
 </p>
 
 ### Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,firebase" />
-</p>
+<p align="center">
 
-### AI / ML
+<img src="https://skillicons.dev/icons?i=git"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=postman"/>
+
+<img src="https://skillicons.dev/icons?i=firebase"/>
+
+<img src="https://skillicons.dev/icons?i=npm"/>
+
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-### 🏨 WanderLust
-> Full Stack Hotel Booking Website
+## 🌍 WanderLust
 
-- User Authentication
-- CRUD Operations
-- Image Upload
-- Map Integration
-- MongoDB Atlas
+🏨 Airbnb Clone using MERN Stack
 
-**Tech:** Node.js • Express • MongoDB • Bootstrap • Cloudinary
+✔ Authentication
 
----
+✔ Authorization
 
-### ♻ Waste Classification using CNN
+✔ Image Upload
 
-- Deep Learning
-- TensorFlow
-- Keras
-- Streamlit Deployment
+✔ Cloudinary
+
+✔ MongoDB Atlas
+
+✔ Map Integration
 
 ---
 
-### 🎥 Intelligent Audio Video Dubbing
+## ♻ Waste Classification using CNN
 
-- Wav2Lip
-- Whisper
-- Neural TTS
-- AI Translation
+🧠 TensorFlow
 
-Presented as an IEEE Research Paper.
+🧠 Keras
 
----
+🧠 Streamlit
 
-### 📱 MediConnect
-
-Flutter + Firebase Medical Appointment App
+🧠 Deep Learning
 
 ---
 
-## 📊 GitHub Stats
+## 🎥 Intelligent Audio Video Dubbing
+
+IEEE Research Project
+
+✔ Wav2Lip
+
+✔ Whisper
+
+✔ Neural TTS
+
+✔ AI Translation
+
+---
+
+## 📱 MediConnect
+
+Flutter + Firebase
+
+Medical Appointment Application
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Most Used Languages
+
+<p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
 
@@ -136,30 +223,60 @@ Flutter + Firebase Medical Appointment App
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
+
 <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&row=1&column=7"/>
+
 </p>
 
 ---
 
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+
 </p>
 
 ---
 
-## 🔥 Visitor Count
+# 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+
 </p>
 
 ---
 
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
+# ⚡ Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📫 Reach Me
+
+📧 your_email@gmail.com
+
+🌐 https://yourportfolio.vercel.app
+
+💼 https://linkedin.com/in/your-linkedin-id
+
+📱 +91 XXXXX XXXXX
+
+---
+
+<div align="center">
+
+## ⭐ If you like my work, consider giving a ⭐ to my repositories.
+
+</div>
