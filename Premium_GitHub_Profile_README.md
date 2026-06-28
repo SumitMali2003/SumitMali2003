@@ -118,10 +118,6 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="tel:+919511759204">
-<img src="https://img.shields.io/badge/Contact-34A853?style=for-the-badge&logo=googlemessages&logoColor=white"/>
-</a>
-
 <a href="https://www.linkedin.com/in/sumit-mali-419a39252/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -136,7 +132,22 @@
 
 </p>
 
+<p align="center">
+
+<a href="tel:+919511759204">
+<img src="https://img.shields.io/badge/-34A853?style=flat-square&logo=googlemessages&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/919511759204" target="_blank">
+<img src="https://img.shields.io/badge/-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
+</a>
+
+<b>+91 95117 59204</b>
+
+</p>
+
 ---
+
 
 ### ⭐ Thanks for visiting my profile! ⭐
 
