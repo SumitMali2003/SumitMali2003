@@ -134,15 +134,13 @@
 
 <p align="center">
 
-<a href="tel:+919511759204">
-<img src="https://img.shields.io/badge/-34A853?style=flat-square&logo=googlemessages&logoColor=white"/>
-</a>
+<a href="tel:+919511759204" target="_blank">📞</a>
+&nbsp;<b>+91 95117 59204</b>
+&nbsp;&nbsp;&nbsp;&amp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://wa.me/919511759204" target="_blank">
-<img src="https://img.shields.io/badge/-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
+<img src="https://img.shields.io/badge/-25D366?style=flat-square&logo=whatsapp&logoColor=white" height="22"/>
 </a>
-
-<b>+91 95117 59204</b>
 
 </p>
 
