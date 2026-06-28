@@ -1,12 +1,10 @@
 <img src="Brown Wood Minimalist Profile LinkedIn Banner.png" />
 <h1 align="center">Hi 👋, I'm Sumit Mali</h1>
 <h3 align="center">A passionate Full Stack MERN Developer from India</h3>
+<p align="center">Aspiring Software Engineer passionate about developing high-performance web applications using MERN stack to deliver
+impactful user experiences.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitmali2003&label=Profile%20views&color=0e75b6&style=flat" alt="sumitmali2003" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumitmali2003" alt="sumitmali2003" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 📫 How to reach me **sumitmali2003@gmail.com**
 
