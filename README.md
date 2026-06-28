@@ -100,8 +100,6 @@
 
 # 🐍 Contribution Snake
 
-> Create `.github/workflows/snake.yml` in this repository and use the latest GitHub Actions snake workflow.
-
 <p align="center">
 <img src="https://raw.githubusercontent.com/SumitMali2003/SumitMali2003/output/github-contribution-grid-snake-dark.svg"/>
 </p>
