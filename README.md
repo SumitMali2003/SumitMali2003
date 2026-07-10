@@ -124,7 +124,7 @@
 <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<a href="https://drive.google.com/file/d/1xZ7bR4XkHeBAnxq3GWsvGmL1iA2Bv9Nw/view?usp=drive_link" target="_blank">
+<a href="https://drive.google.com/file/d/1XpbjTGrc0rI7WbaqBIkG0TZX5ZXzJkdh/view?usp=drive_link">
 <img src="https://img.shields.io/badge/Resume-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
